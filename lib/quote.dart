@@ -6,4 +6,4 @@ class Quote {
   
 }
 
-Quote mq = Quote(text: 'this is quote', author: 'testuser');
+// Quote mq = Quote(text: 'this is quote', author: 'testuser');
